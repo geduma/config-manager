@@ -3,10 +3,10 @@
 </p>
 
 ## APP
-https://config.geduramc.com
+https://config.geduma.com
 
 ## API
-https://api.geduramc.com/config-manager
+https://api.geduma.com/config-manager
 
 Endpoints:
 
